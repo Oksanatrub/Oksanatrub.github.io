@@ -1,0 +1,21 @@
+{
+	"name": "Веселая Лаборатория",
+	"short_name": "Веселая Лаборатория",
+	"description": "game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "436x530",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "438x532",
+			"type": "image/png"
+		}
+	]
+}
