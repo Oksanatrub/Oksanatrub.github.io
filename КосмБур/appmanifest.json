@@ -1,0 +1,31 @@
+{
+	"name": "Космический Бур",
+	"short_name": "Космический Бур",
+	"description": "game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "1245x1082",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "1249x1082",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-114.png",
+			"sizes": "1253x1082",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "1257x1082",
+			"type": "image/png"
+		}
+	]
+}
