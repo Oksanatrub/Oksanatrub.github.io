@@ -1,0 +1,16 @@
+{
+	"name": "GET OUT OF HERE",
+	"short_name": "GET OUT OF HERE",
+	"description": "game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "258x258",
+			"type": "image/png"
+		}
+	]
+}
